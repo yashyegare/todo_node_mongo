@@ -1,6 +1,6 @@
 # Simple Application made using Docker and Mongodb!
 
-## Image 1: Beautiful Landscape
+## Image 1: Landing page
 
 ![Todos - Google Chrome 30 8 23 11_50_01](https://github.com/yashyegare/todo_node_mongo/assets/78661214/97e176aa-122c-47d2-abf0-782740af31e3)
 
